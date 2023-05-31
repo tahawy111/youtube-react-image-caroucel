@@ -1,5 +1,4 @@
 import { useState, useId } from "react";
-import getThis from "../lib/getThis";
 interface CarouselProps {
 
 }
